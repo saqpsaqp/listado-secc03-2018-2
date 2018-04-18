@@ -6,4 +6,4 @@ el formato MarkDown para las tablas.
 | Cedula     | Nombres          | Apellidos          | Correo                     | Usuario GitHub |
 |------------|------------------|--------------------|----------------------------|----------------|
 | 25.633.733 | Luis Eduardo     | Vera Valencia      | veravluis@gmail.com        | veravluis      |
-|            |                  |                    |                            |                |
+| 25.977.226 | Jesús Gregorio   | Altuve Roa         | jesus.altuve@unet.edu.ve   | Jgar20         |
