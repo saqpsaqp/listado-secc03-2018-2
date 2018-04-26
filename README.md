@@ -7,3 +7,5 @@ el formato MarkDown para las tablas.
 |------------|------------------|--------------------|----------------------------|----------------|
 | 25.633.733 | Luis Eduardo     | Vera Valencia      | veravluis@gmail.com        | veravluis      |
 | 25.977.226 | Jesús Gregorio   | Altuve Roa         | jesus.altuve@unet.edu.ve   | Jgar20         |
+| 17.207.557 | Ana Karina       | González Rivero    | karinagonzlez@gmail.com    | AnaKari        |
+| 25.727.657 | Luis Jose        | Uzcategui Ramirez  | luisjoseuzcategui@gmail.com| luisus97       |
